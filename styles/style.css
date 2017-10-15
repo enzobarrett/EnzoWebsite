@@ -12,5 +12,8 @@ ul {
 }
 
 img {
- margin-left: 0;
+ float: left;
+ max-width: 50%;
+ height: auto;
+ 
 }
