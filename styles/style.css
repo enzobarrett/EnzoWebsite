@@ -2,9 +2,8 @@ body {
 text-align: center;
 }
 h1 {
+ width: 100%;
  position: fixed;
- z-index: 1000;
+ z-index: 10;
 }
-.clear {
- clear: both;
-}
+
