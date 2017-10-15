@@ -4,4 +4,9 @@ text-align: center;
 
 li {
  display: in-line; 
+
+}
+
+ul {
+ list-style-type: none;
 }
