@@ -10,3 +10,7 @@ li {
 ul {
  list-style-type: none;
 }
+
+img {
+ margin-left: 0;
+}
