@@ -45,17 +45,18 @@ img.left {
  
  height: auto;
  float: left;
- width: 32%
+ width: 33%
  
 }
 
 img.right {
  float: left;
- width: 32%;
+ width: 33%;
  height: auto;
 }
 
 img.far {
+ /* This one does not exist yet*/
  float: left;
  width: 32%;
  height: auto;
