@@ -82,6 +82,8 @@ img.right {
 
 img.far {
  /* This one does not exist yet*/
+    position: absolute;
+    clip: rect( 0, 0, 10px, 0);
  float: left;  
  width: 33.33%;
  height: auto;
