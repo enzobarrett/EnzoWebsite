@@ -53,5 +53,10 @@ img.right {
  float: left;
  width: 32%;
  height: auto;
+}
 
+img.far {
+ float: left;
+ width: 32%;
+ height: auto;
 }
