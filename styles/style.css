@@ -60,3 +60,9 @@ img.far {
  width: 32%;
  height: auto;
 }
+
+img.big {
+ float:left;
+ width: 66%;
+ height: auto;
+}
