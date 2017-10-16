@@ -50,7 +50,7 @@ img.left {
 }
 
 img.right {
- float: right;
+ float: left;
  width: 32%;
  height: auto;
 
