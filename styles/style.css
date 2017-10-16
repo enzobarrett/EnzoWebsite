@@ -1,3 +1,20 @@
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: crimson;
+}
+
+a:active {
+    
+} 
+
+
 * {
   box-sizing: border-box;
 }
