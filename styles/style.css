@@ -10,7 +10,7 @@ header {
 h1.heading {
  display: block;
  text-align: left;
- margin: -8px auto 0px;
+ margin: -8px -8px 0px -8px;
 
  padding: 10px 10px;
 }
