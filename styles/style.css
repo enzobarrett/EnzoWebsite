@@ -8,7 +8,7 @@ header {
  background-color: #C5C4C4;
 }
 
-heading {
+.heading {
  display: inline;
  text-align: left;
  float: left;
