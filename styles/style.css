@@ -9,10 +9,10 @@ header {
 }
 
 h1.heading {
- display: block;
+ display: inline;
  text-align: left;
  float: left;
- width: 50%
+ width: 50%;
  margin: 0px 0px 0px 0px;
  padding: 7px 0px 10px 10px;
  font-family: 'Playfair Display', serif;
@@ -20,7 +20,7 @@ h1.heading {
 
 li {
  display: inline;
-width= 50/3;
+width= 16.5;
 }
 
 
