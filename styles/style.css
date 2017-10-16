@@ -24,13 +24,13 @@ a:active {
 
 body {
 text-align: center;
-background-color: #fff;
+background-color: grey;
 margin: 0px 0px 0px 0px;
 }
 
 
 .heading {
- background-color: grey;
+ background-color: white;
  margin: 0 0 0 0;
  padding: 6px 0 6px 12px;
  display: inline;
