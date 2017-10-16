@@ -8,20 +8,24 @@ li {
 
 }
 
+head {
+ width: 100%;
+}
+
 ul {
  list-style-type: none;
- text-align: center;
+ text-align: right;
+ 
 }
 
 img.left {
  float: left;
- max-width: 50%;
+ width: 50%
  height: auto;
- padding-left: 0;
- margin-left: 0;
- 
 }
 
 img.right {
  float: right;
+ width: 50%;
+ height: auto;
 }
