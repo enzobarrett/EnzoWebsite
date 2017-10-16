@@ -82,8 +82,7 @@ img.right {
 
 img.far {
  /* This one does not exist yet*/
- float: left;
-    margin: 6px 6px 0 6px;
+ float: left;  
  width: 33.33%;
  height: auto;
 }
@@ -92,4 +91,5 @@ img.big {
  float:left;
  width: 66.66%;
  height: auto;
+ margin: 6px 6px 0 6px;
 }
