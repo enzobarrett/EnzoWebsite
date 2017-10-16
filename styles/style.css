@@ -3,12 +3,19 @@ text-align: center;
 background-color: rgb(141, 141, 141);
 }
 
+h1.heading {
+ display: inline;
+ text-align: left;
+ margin-left: 22px;
+}
+
 li {
  display: inline;
 
 }
 
 head {
+ background-color: #C5C4C4;
  width: 100%;
 }
 
