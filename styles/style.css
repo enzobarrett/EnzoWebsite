@@ -24,6 +24,7 @@ li {
 }
 
 h1.list{
+ height: 50px;
  width: 50%;
   text-align: right; 
  list-style-type: none;
