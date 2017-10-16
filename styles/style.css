@@ -37,9 +37,6 @@ margin: 0px 0px 0px 0px;
  text-align: left;
  float: left;
  width: 50%;
-
-
-
  font-family: 'Playfair Display', serif;
 }
 
@@ -67,11 +64,13 @@ ul {
  padding: 0 0 0 0;
 }
 img.left {
+    /*the picture of dad*/
+ margin-bottom: -3px;
  padding: 0 12px 0 0;
  height: auto;
  float: left;
- width: 33.33%
- 
+ width: 33.33%;
+ overflow: hidden;
 }
 
 img.right {
