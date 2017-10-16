@@ -25,17 +25,13 @@ li {
 
 h1.list{
  width: 50%;
+  text-align: right; 
+ list-style-type: none;
+ float: left;
+ display: inline;
+ background-color: #C5C4C4;
 }
 
-ul {
- 
- list-style-type: none;
- text-align: right;
- margin-right: 22px;
- background-color: #C5C4C4;
- 
- 
-}
 
 img.left {
  height: auto;
