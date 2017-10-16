@@ -78,6 +78,7 @@ img.right {
  float: left;
  width: 33.33%;
  height: auto;
+ padding: 0 12px 12px 0;
 }
 
 img.far {
