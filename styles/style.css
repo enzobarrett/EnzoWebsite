@@ -4,7 +4,7 @@ background-color: rgb(141, 141, 141);
 }
 
 h1.heading {
- display: inline;
+ display: block;
  text-align: left;
  margin-left: 22px;
 
