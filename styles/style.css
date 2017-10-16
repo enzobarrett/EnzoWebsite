@@ -32,7 +32,7 @@ margin: 0px 0px 0px 0px;
 .heading {
  background-color: white;
  margin: 0 0 0 0;
- padding: 6px 0 6px 8px;
+ padding: 6px 0 6px 12px;
  display: inline;
  text-align: left;
  float: left;
@@ -50,7 +50,7 @@ li {
 
 .list {
 
-
+ 
  width: 50%;
   text-align: right; 
  list-style-type: none;
