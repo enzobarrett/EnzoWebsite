@@ -14,7 +14,7 @@ h1.heading {
  float: left;
  width: 50%;
  margin: 0px 0px 0px 0px;
- padding: 7px 0px 10px 10px;
+hight: 50px;
  font-family: 'Playfair Display', serif;
 }
 
@@ -27,7 +27,7 @@ h1.list{
  width: 50%;
   text-align: right; 
  list-style-type: none;
- float: left;
+ float: right;
  display: inline;
  background-color: #C5C4C4;
 }
