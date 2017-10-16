@@ -4,11 +4,9 @@ background-color: rgb(141, 141, 141);
 margin: 0px 0px 0px 0px;
 }
 
-header {
- background-color: #C5C4C4;
-}
 
 .heading {
+ background-color: white;
  margin: 0 0 0 0;
  display: inline;
  text-align: left;
