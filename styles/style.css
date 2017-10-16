@@ -13,11 +13,15 @@ ul {
  text-align: center;
 }
 
-img {
+img.left {
  float: left;
  max-width: 50%;
  height: auto;
  padding-left: 0;
  margin-left: 0;
  
+}
+
+img.right {
+ float: right;
 }
