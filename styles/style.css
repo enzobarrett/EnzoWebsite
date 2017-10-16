@@ -10,8 +10,9 @@ header {
 h1.heading {
  display: block;
  text-align: left;
- margin: 0px auto;
- padding: 10px 0px;
+ margin: -2px auto 0px;
+
+ padding: 10px 10px;
 }
 
 li {
