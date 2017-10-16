@@ -3,12 +3,17 @@ text-align: center;
 background-color: rgb(141, 141, 141);
 }
 
+header {
+ background-color: #C5C4C4;
+}
+
 h1.heading {
  display: block;
  text-align: left;
- margin-left: 22px;
- background-color: #C5C4C4;
+ 
+ 
  margin: 30px auto;
+ padding: 0 20px;
 }
 
 li {
