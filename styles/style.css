@@ -5,7 +5,7 @@ background-color: rgb(141, 141, 141);
 
 h1.heading {
  display: inline;
- text-align: left;
+ float left;
  margin-left: 22px;
 }
 
@@ -15,7 +15,7 @@ li {
 }
 
 head {
- background-color: #C5C4C4;
+ 
  width: 100%;
 }
 
@@ -23,6 +23,7 @@ ul {
  list-style-type: none;
  text-align: right;
  margin-right: 22px;
+ background-color: #C5C4C4;
  
 }
 
