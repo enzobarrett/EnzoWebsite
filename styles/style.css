@@ -29,13 +29,12 @@ img.left {
  height: auto;
  float: left;
  width: 50%
- 
- 
+ clear: both;
 }
 
 img.right {
  float: right;
  width: 50%;
  height: auto;
- 
+ clear: both;
 }
