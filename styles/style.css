@@ -9,6 +9,7 @@ header {
 }
 
 .heading {
+ margin: 0 0 0 0;
  display: inline;
  text-align: left;
  float: left;
