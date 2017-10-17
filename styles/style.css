@@ -95,3 +95,8 @@ img.big {
  padding: 0px 12px 0 12px;
 
 }
+
+div.control.left {
+    height: 30px;
+    overflow: hidden; 
+}
