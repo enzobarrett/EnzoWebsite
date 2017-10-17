@@ -67,7 +67,7 @@ ul {
 img.left {
     /*the picture of dad*/
  padding: 0 12px 0 0;
- height: auto;
+ 
  float: left;
  width: 33.33%;
  overflow: hidden;
