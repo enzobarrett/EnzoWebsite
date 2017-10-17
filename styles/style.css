@@ -78,7 +78,7 @@ img.right {
  float: left;
  width: 33.33%;
  height: auto;
- padding: 12px 12px 12px 0;
+ padding: 0px 12px 12px 0;
 }
 
 img.far {
@@ -93,5 +93,6 @@ img.big {
  float:left;
  width: 66.66%;
  height: auto;
- padding: 12px 12px 0 12px;
+ padding: 0px 12px 0 12px;
+    margin-top: 12px;
 }
