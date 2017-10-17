@@ -31,7 +31,7 @@ margin: 0px 0px 0px 0px;
 
 .heading {
  background-color: white;
- margin: 0 0 0 0;
+ margin: 0 0 12px 0;
  padding: 6px 0 6px 12px;
  display: inline;
  text-align: left;
@@ -94,5 +94,5 @@ img.big {
  width: 66.66%;
  height: auto;
  padding: 0px 12px 0 12px;
- margin-top: 12px;
+
 }
