@@ -102,3 +102,15 @@ div.control {
     overflow: hidden;
      
 }
+
+img.lineleft, img.linecenter, img.lineright {
+ width: 33.33%;
+ height: auto; 
+}
+
+img.lineleft {
+ float: left;
+ padding-left: 12px;
+ padding-right: 4px;
+}
+
