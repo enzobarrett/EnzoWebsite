@@ -24,7 +24,7 @@ a:active {
 
 body {
 text-align: center;
-background-color: teal;
+background-color: white;
 margin: 0px 0px 0px 0px;
 }
 
@@ -100,7 +100,7 @@ img.big {
 
 div.control {
  
- max-height: 632px;
+ max-height: 630px;
  overflow: hidden;
  width: 100%;
 
