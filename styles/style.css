@@ -99,7 +99,7 @@ img.big {
 div.control {
  max-height: 550px;
  overflow: hidden;
- width: 100%
+ width: 100%;
 }
 
 img.lineleft, img.linecenter, img.lineright {
