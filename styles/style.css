@@ -97,7 +97,7 @@ img.big {
 }
 
 div.control.big {
- max-height: 500px;
+ max-height: 400px;
  overflow: hidden;
  width: 100%
 }
