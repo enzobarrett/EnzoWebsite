@@ -96,7 +96,7 @@ img.big {
 
 }
 
-div.control {
+div.control.big {
  max-height: 500px;
  overflow: hidden;
 }
