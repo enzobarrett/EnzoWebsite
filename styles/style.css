@@ -3,8 +3,8 @@ a:link {
     text-decoration: none;
 }
 
-a:visited, a:hover, a:active  {
-    color: black;
+a:hover, a:active  {
+    color: crimson;
     text-decoration: none;
 }
 
