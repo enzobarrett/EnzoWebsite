@@ -1,5 +1,5 @@
-.active {
- color: crimson;
+a:hover {
+ color: crimpson;
 }
 
 a {
@@ -36,6 +36,8 @@ margin: 0px 0px 0px 0px;
     position: absolute;
     z-index: 1;
     background-color: white;
+    width: inherit;
+    
 }
 
 .dropdown:hover .dropdown-content {
@@ -43,7 +45,7 @@ margin: 0px 0px 0px 0px;
 }
 
 .dropdown {
-    position: relative;
+
     display: inline-block;
 }
 
