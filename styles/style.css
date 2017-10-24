@@ -40,6 +40,10 @@ margin: 0px 0px 0px 0px;
     z-index: 1;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
 
 li {
  display: inline;
