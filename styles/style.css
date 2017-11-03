@@ -12,7 +12,7 @@ a {
 }
 
 @font-face {
-    font-family: myFirstFont;
+    font-family: 'myFirstFont';
     src: url('Vulf_Mono-Italic_web.ttf');
     font-weight: 400;
     font-style: normal;
