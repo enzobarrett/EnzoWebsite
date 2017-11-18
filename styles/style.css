@@ -34,6 +34,7 @@ margin: 0px 0px 0px 0px;
  float: left;
  width: 50%;
  font-family: 'myFirstFont', serif;
+ hight: 10dh;
 
 }
 
@@ -112,13 +113,14 @@ img.big {
  height: auto;
  padding: 0px 0px 0px 0px;
  top: -100px;
- position: relative;
+position: relative;
+
 
 }
 
 div.control {
  
- max-height: 622.5px;
+ height: 90vh;
  overflow: hidden;
  width: 100%;
 
@@ -146,4 +148,8 @@ img.lineright {
  float: left;
  padding-left: 4px;
  padding-right: 12px;
+}
+
+div.header {
+    height: 10vh;
 }
