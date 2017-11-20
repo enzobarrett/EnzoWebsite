@@ -92,7 +92,7 @@ ul {
 
 .left {
     position: absolute;
-    left:350px;
+    left:354px;
     top: 339px;
     font-family: 'myFirstFont', 'serif'; 
 } 
@@ -102,4 +102,35 @@ ul {
     left: 1340px;
     top: 339px;
     font-family: 'myFirstFont', 'serif';
+}
+
+
+
+img {
+    height: 100vh;
+    float: right;
+    
+ 
+}
+
+.left, .right {
+    background-color: grey;
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+ 
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+
+.button:hover {
+    background-color: white;
+    color: grey;
 }
