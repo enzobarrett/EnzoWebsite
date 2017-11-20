@@ -18,27 +18,32 @@ a {
     font-style: normal;
 }
 
-body {
+body, .header, .list {
 text-align: center;
-background-color: white;
+background-color: #ededed;
 margin: 0px 0px 0px 0px;
 }
 
 
-.heading {
- background-color: white;
+.heading, .headering, .list {
+ background-color: #ededed;
  margin: 0 0 0 0;
  padding: 6px 0 6px 12px;
- display: inline;
+ display: absolute;
  text-align: left;
  float: left;
- width: 50%;
+ width: 20%;
  font-family: 'myFirstFont', serif;
- hight: 10dh;
+
+position: fixed;
+left: 30px;
+top: 10px;
 
 }
 
-.dropdown-content {
+.headering {
+    top: 60px;
+}.dropdown-content {
     display: none;
     position: absolute;
     z-index: 1;
@@ -56,9 +61,7 @@ margin: 0px 0px 0px 0px;
     display: inline-block;
 }
 
-.padding {
- padding-right: 23px;
-}
+
 
 li {
  display: inline;
@@ -66,17 +69,18 @@ li {
 
 .list {
 
- width: 50%;
- text-align: right; 
+ width: 20%;
+ text-align: center; 
  list-style-type: none;
- float: right;
+ float: left;
  display: inline;
- background-color: white;
+ background-color: #ededed;
  font-family: 'myFirstFont', serif;
  margin: 0 0 0 0;
  padding: 6px 23px 6px 0;
-
- 
+ position: fixed;
+ left: 30px;
+ top: 110px
 }
 
 ul {
@@ -84,78 +88,48 @@ ul {
  padding: 0 0 0 0;
 }
 
-img.left {
-    /*the picture of dad*/
- padding: 0 12px 0 0;
- 
- float: left;
- width: 33.33%;
- overflow: hidden;
+.left {
+    position: absolute;
+    left:354px;
+    top: 339px;
+    font-family: 'myFirstFont', 'serif'; 
+} 
+
+.right {
+    position: absolute;
+    left: 1340px;
+    top: 339px;
+    font-family: 'myFirstFont', 'serif';
 }
 
-img.right {
- float: left;
- width: 33.33%;
- height: auto;
- padding: 0px 12px 12px 0;
+
+
+img {
+    width: 70%;
+    float: right;
+    margin-right: 3.5%;
+    margin-top: 3.5%;
 }
 
-img.far {
- /* This one does not exist yet*/
+.left, .right {
+    background-color: grey;
+    border: none;
+    color: white;
    
- float: left;  
- width: 33.33%;
- height: auto;
-}
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 
-img.big {
- float: left;
- width: 100%;
- height: auto;
- padding: 0px 0px 0px 0px;
- top: -100px;
-position: relative;
-
-
-}
-
-div.control {
  
- height: 90vh;
- overflow: hidden;
- width: 100%;
-
-    
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
 
-img.lineleft, img.linecenter, img.lineright {
- width: 33.33%;
- height: auto; 
+
+
+.button:hover {
+    background-color: white;
+    color: grey;
 }
 
-img.lineleft {
- float: left;
- padding-left: 12px;
- padding-right: 4px;
-}
-
-img.linecenter {
- float: left;
- padding-left: 8px;
- padding-right: 8px;
-}
-
-img.lineright {
- float: left;
- padding-left: 4px;
- padding-right: 12px;
-}
-
-div.header {
-    height: 10vh;
-}
-
-.mySlides {
-
-  width: 100%;
-}
