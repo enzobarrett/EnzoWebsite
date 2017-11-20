@@ -34,7 +34,7 @@ margin: 0px 0px 0px 0px;
  float: left;
  width: 20%;
  font-family: 'myFirstFont', serif;
- hight: 10dh;
+
 position: fixed;
 left: 30px;
 top: 10px;
@@ -61,9 +61,7 @@ top: 10px;
     display: inline-block;
 }
 
-.padding {
- padding-right: 23px;
-}
+
 
 li {
  display: inline;
