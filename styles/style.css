@@ -43,7 +43,7 @@ margin: 0px 0px 0px 0px;
 
 position: fixed;
 left: 25px;
-top: 28px;
+top: 50px;
 
 }
 
@@ -105,14 +105,4 @@ img {
     margin-top: 3%;
 }
 
-.left {
-    margin-right: 1%;
-
-}
-
-.right {
-    margin-top: 1%;
-}
-
-img:hover {opacity: .97;}
 
